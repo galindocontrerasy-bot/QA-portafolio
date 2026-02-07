@@ -1,39 +1,66 @@
-# Yanne Galindo – QA Portfolio
+# Yanne Galindo – Junior QA Portfolio
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-I am a Junior QA specializing in Manual and API Testing.  
-I have experience in test design, execution of test cases, bug reporting, and data validation using SQL.
+Junior QA specialized in Manual and API Testing with experience in:
 
-I work with:
-- Jira
-- Postman
-- SQL
-- Browser DevTools
-- Functional and Web Testing
+- Test case design
+- Equivalence class analysis
+- Boundary value testing
+- Functional testing of web applications
+- API testing using Postman
+- Data validation using SQL
+- Structured bug reporting with severity classification
 
-Currently expanding my skills in QA Automation.
+Strong analytical mindset with attention to detail and structured documentation practices.  
+Currently expanding knowledge in QA Automation.
 
 ---
 
-## 🧪 Projects
+## 🛠 Technical Skills
 
-### 1️⃣ Urban Routes – Web Application Testing
-Testing of a transportation web application including:
-- Test case design
-- Equivalence class analysis
-- Bug reports
+- Manual Testing
+- API Testing
+- Test Design Techniques
+- SQL (Basic Queries & Data Validation)
+- Jira
+- Postman
+- Browser DevTools
+- Functional Testing
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Urban Routes – Web Application Testing
+Manual testing project focused on:
 - Functional validation
-
-### 2️⃣ Urban Grocers – API & Functional Testing
-Testing of a grocery platform including:
-- API testing using Postman
-- Test plan creation
+- Input field validation
+- Equivalence class design
 - Bug documentation
-- Data validation
+
+📁 View Project:  
+`urban-routes-project/`
+
+---
+
+### 🔹 Urban Grocers – API Testing
+API validation project including:
+- Endpoint testing
+- Status code verification
+- JSON response validation
+- SQL data validation
+- Bug reporting
+
+📁 View Project:  
+`urban-grocers-project/`
 
 ---
 
 ## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/yanne-galindo-contreras-/
+LinkedIn:  
+www.linkedin.com/in/yanne-galindo-contreras-/
+
+GitHub:  
+https://github.com/galindocontrerasy-bot
